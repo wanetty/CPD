@@ -1,0 +1,5 @@
+Lo primero es escoger un servidor en en la pagina thinkmate, nuestro ejercicio se basa en las peticiones por dsegundo que podemos hacer. En la págin think mate nos interesan sobretodo los de esta configuracion (Te la pego porq asi no se me olvida 
+
+https://www.thinkmate.com/systems/servers/rax#platform:intel-xeon-e5-2600v4,cpu-sockets:dual,rackmount:1u
+
+ ) entonces a partir de aqui tenemos que dibujar el rack con los diferentes servidores, y saber cuanto ancho de banda necesitamos para poder tramitar toda esta información... y a partir de aqui arrancar. 
